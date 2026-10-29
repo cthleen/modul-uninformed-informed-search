@@ -5,6 +5,15 @@
 - [Modul_Pembelajaran_Uninformed_KKA.ipynb](Modul_Pembelajaran_Uninformed_KKA.ipynb): DFS, BFS, UCS, DLS, IDS, dan pencarian dua arah.
 - [Modul_Pembelajaran_Informed_KKA.ipynb](Modul_Pembelajaran_Informed_KKA.ipynb): GBFS, A*, IDA*, RBFS, heuristik, dan frontier terbatas.
 
+## Susunan notebook
+
+Semua impor berada pada sel persiapan. Algoritma ditulis langsung pada bagian
+materinya, diikuti contoh pemanggilan dan latihan TODO. Fungsi pembanding dengan
+penghitung juga ditampilkan pada bagian eksperimen.
+
+Folder `data/` menyediakan data contoh, gambar, dan visualisasi. Untuk membaca
+algoritma, ikuti definisi fungsi di notebook.
+
 ## Menjalankan di komputer
 
 Gunakan Python 3.11 atau lebih baru. Buka terminal pada folder modul, lalu jalankan:
